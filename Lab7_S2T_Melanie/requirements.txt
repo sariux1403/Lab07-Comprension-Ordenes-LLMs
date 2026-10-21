@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+soundfile==0.14.0
+numpy
+scipy

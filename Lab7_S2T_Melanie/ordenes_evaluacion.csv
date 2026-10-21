@@ -1,0 +1,11 @@
+﻿id,texto_correcto,nivel,archivo
+1,Trae el vaso,1,audios_evaluacion/orden_001.wav
+2,Saluda al visitante,1,audios_evaluacion/orden_002.wav
+3,Lleva el libro azul a la mesa,2,audios_evaluacion/orden_003.wav
+4,Busca la caja pequeña en la oficina,2,audios_evaluacion/orden_004.wav
+5,"Ve a la cocina, toma la taza roja y tráemela",3,audios_evaluacion/orden_005.wav
+6,Recibe a María y acompáñala a la sala,3,audios_evaluacion/orden_006.wav
+7,"Oye, porfa, ¿me alcanzas el celular?",4,audios_evaluacion/orden_007.wav
+8,"Eh, mira, dile al señor de camisa azul que venga",4,audios_evaluacion/orden_008.wav
+9,Tráeme eso,5,audios_evaluacion/orden_009.wav
+10,Qué demora la de hoy,5,audios_evaluacion/orden_010.wav

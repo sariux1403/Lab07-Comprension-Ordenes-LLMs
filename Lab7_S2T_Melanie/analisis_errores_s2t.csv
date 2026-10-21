@@ -1,0 +1,25 @@
+﻿Orden,Nivel,Modelo,Tipo de error,Texto correcto,Texto reconocido
+1,1,Whisper,substitute,trae,tray
+1,1,Whisper,substitute,vaso,baso
+2,1,Vosk,insert,,salud
+2,1,Vosk,substitute,saluda,da
+5,3,Whisper,substitute,ve,vea
+5,3,Whisper,delete,a,
+5,3,Whisper,insert,,trae
+5,3,Whisper,substitute,traemela,mela
+5,3,Vosk,substitute,ve,en
+5,3,Vosk,delete,a,
+5,3,Vosk,substitute,taza,tasa
+6,3,Whisper,insert,,a
+6,3,Whisper,substitute,acompanala,companela
+6,3,Vosk,substitute,acompanala,acompanarla
+7,4,Whisper,insert,,por
+7,4,Whisper,substitute,porfa,favor
+7,4,Vosk,insert,,hoy
+7,4,Vosk,substitute,oye,y
+7,4,Vosk,substitute,alcanzas,alcanzase
+8,4,Whisper,substitute,al,el
+8,4,Vosk,substitute,eh,y
+8,4,Vosk,substitute,al,el
+10,5,Vosk,insert,,mora
+10,5,Vosk,substitute,demora,en

@@ -1,0 +1,11 @@
+﻿Orden,Nivel,Referencia,Whisper,Vosk,WER Whisper (%),WER Vosk (%),Tiempo Whisper (s),Tiempo Vosk (s)
+1,1,Trae el vaso,Tray el baso.,trae el vaso,66.67,0.0,6.4,1.21
+2,1,Saluda al visitante,¡Saluda al visitante!,salud da al visitante,0.0,66.67,2.47,0.87
+3,2,Lleva el libro azul a la mesa,lleva el libro azul a la mesa,lleva el libro azul a la mesa,0.0,0.0,2.44,0.88
+4,2,Busca la caja pequeña en la oficina,Busca la caja pequeña en la oficina.,busca la caja pequeña en la oficina,0.0,0.0,2.78,1.26
+5,3,"Ve a la cocina, toma la taza roja y tráemela","Vea la cocina, toma la taza roja y trae mela.",en la cocina toma la tasa roja y tráemela,40.0,30.0,3.39,0.98
+6,3,Recibe a María y acompáñala a la sala,recibe a María y a compañela a la sala.,recibe a maría y acompañarla a la sala,25.0,12.5,2.64,0.93
+7,4,"Oye, porfa, ¿me alcanzas el celular?",¿Oye por favor me alcanzas el celular?,hoy y porfa me alcanzase el celular,33.33,50.0,2.66,0.93
+8,4,"Eh, mira, dile al señor de camisa azul que venga","Eh mira, dile el señor de camisa azul que venga.",y mira dile el señor de camisa azul que venga,10.0,20.0,3.68,0.89
+9,5,Tráeme eso,traeme eso,tráeme eso,0.0,0.0,2.17,0.61
+10,5,Qué demora la de hoy,que demora la de hoy.,que mora en la de hoy,0.0,40.0,2.39,0.81

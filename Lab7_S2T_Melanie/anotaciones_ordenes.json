@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "nivel": 1,
+        "audio": "audios_evaluacion/orden_001.wav",
+        "transcripcion": "Trae el vaso",
+        "acciones": [
+            {
+                "accion": "traer",
+                "objetos": [
+                    {
+                        "nombre": "vaso",
+                        "adjetivos": []
+                    }
+                ],
+                "personas": [],
+                "lugares": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nivel": 1,
+        "audio": "audios_evaluacion/orden_002.wav",
+        "transcripcion": "Saluda al visitante",
+        "acciones": [
+            {
+                "accion": "saludar",
+                "objetos": [],
+                "personas": [
+                    {
+                        "nombre": "visitante",
+                        "adjetivos": []
+                    }
+                ],
+                "lugares": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nivel": 2,
+        "audio": "audios_evaluacion/orden_003.wav",
+        "transcripcion": "Lleva el libro azul a la mesa",
+        "acciones": [
+            {
+                "accion": "llevar",
+                "objetos": [
+                    {
+                        "nombre": "libro",
+                        "adjetivos": [
+                            "azul"
+                        ]
+                    }
+                ],
+                "personas": [],
+                "lugares": [
+                    {
+                        "nombre": "mesa",
+                        "adjetivos": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nivel": 2,
+        "audio": "audios_evaluacion/orden_004.wav",
+        "transcripcion": "Busca la caja pequeña en la oficina",
+        "acciones": [
+            {
+                "accion": "buscar",
+                "objetos": [
+                    {
+                        "nombre": "caja",
+                        "adjetivos": [
+                            "pequeña"
+                        ]
+                    }
+                ],
+                "personas": [],
+                "lugares": [
+                    {
+                        "nombre": "oficina",
+                        "adjetivos": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nivel": 3,
+        "audio": "audios_evaluacion/orden_005.wav",
+        "transcripcion": "Ve a la cocina, toma la taza roja y tráemela",
+        "acciones": [
+            {
+                "accion": "ir",
+                "objetos": [],
+                "personas": [],
+                "lugares": [
+                    {
+                        "nombre": "cocina",
+                        "adjetivos": []
+                    }
+                ]
+            },
+            {
+                "accion": "tomar",
+                "objetos": [
+                    {
+                        "nombre": "taza",
+                        "adjetivos": [
+                            "roja"
+                        ]
+                    }
+                ],
+                "personas": [],
+                "lugares": []
+            },
+            {
+                "accion": "traer",
+                "objetos": [
+                    {
+                        "nombre": "taza",
+                        "adjetivos": [
+                            "roja"
+                        ]
+                    }
+                ],
+                "personas": [],
+                "lugares": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nivel": 3,
+        "audio": "audios_evaluacion/orden_006.wav",
+        "transcripcion": "Recibe a María y acompáñala a la sala",
+        "acciones": [
+            {
+                "accion": "recibir",
+                "objetos": [],
+                "personas": [
+                    {
+                        "nombre": "María",
+                        "adjetivos": []
+                    }
+                ],
+                "lugares": []
+            },
+            {
+                "accion": "acompañar",
+                "objetos": [],
+                "personas": [
+                    {
+                        "nombre": "María",
+                        "adjetivos": []
+                    }
+                ],
+                "lugares": [
+                    {
+                        "nombre": "sala",
+                        "adjetivos": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nivel": 4,
+        "audio": "audios_evaluacion/orden_007.wav",
+        "transcripcion": "Oye, porfa, ¿me alcanzas el celular?",
+        "acciones": [
+            {
+                "accion": "alcanzar",
+                "objetos": [
+                    {
+                        "nombre": "celular",
+                        "adjetivos": []
+                    }
+                ],
+                "personas": [],
+                "lugares": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nivel": 4,
+        "audio": "audios_evaluacion/orden_008.wav",
+        "transcripcion": "Eh, mira, dile al señor de camisa azul que venga",
+        "acciones": [
+            {
+                "accion": "decir",
+                "objetos": [],
+                "personas": [
+                    {
+                        "nombre": "señor de camisa",
+                        "adjetivos": [
+                            "azul"
+                        ]
+                    }
+                ],
+                "lugares": []
+            },
+            {
+                "accion": "venir",
+                "objetos": [],
+                "personas": [
+                    {
+                        "nombre": "señor de camisa",
+                        "adjetivos": [
+                            "azul"
+                        ]
+                    }
+                ],
+                "lugares": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nivel": 5,
+        "audio": "audios_evaluacion/orden_009.wav",
+        "transcripcion": "Tráeme eso",
+        "acciones": []
+    },
+    {
+        "id": 10,
+        "nivel": 5,
+        "audio": "audios_evaluacion/orden_010.wav",
+        "transcripcion": "Qué demora la de hoy",
+        "acciones": []
+    }
+]
